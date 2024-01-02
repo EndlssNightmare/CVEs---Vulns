@@ -1,2 +1,2 @@
-# CVEs---Vulns
+# CVEs-Vulns
 Just a repository to store CVEs, exploits and other things...
